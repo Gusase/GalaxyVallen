@@ -1,16 +1,14 @@
-### Hi there 👋
+# <div align="center">prepare...</div>
+###
 
-<!--
-**GalaxyVallen/GalaxyVallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="175" src="https://cdn.discordapp.com/attachments/1021974677171736646/1134165994621894736/22222222_t_side_view_abstractly_depiction_by_januz_miralles_mes_67c25bea-091d-4edb-9441-9287b79ba48f.png">
 
-Here are some ideas to get you started:
+###
+  
+some changes need to be `‎  ‎ ‎‎ ‎ ‎ `
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+`‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ` `        ` `‎‎ ‎ ‎ ‎ ‎ ‎ `
+`‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ` `‎   ‎  ‎` `‎  ‎ ‎ ‎     ‎ ‎ `
+</div>
